@@ -1,0 +1,10 @@
+{
+    "name": "Upper To Lower and Lower to Upper",
+    "version": "1.0",
+    "description": "Transform text from Upper To Lower and Lower to Upper",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+
+    "manifest_version": 2
+}
