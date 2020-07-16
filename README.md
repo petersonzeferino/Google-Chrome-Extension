@@ -34,3 +34,5 @@ The application contains two buttons 'Upper' and 'Lower'
 
 Open Google Chrome and in the navigation bar enter chrome://extensions/, switch to developer mode, and load compression find the folder that contains the file.
 Now just use the extension.
+
+[![HitCount](http://hits.dwyl.com/petersonzeferino/Google-Chrome-Extension.svg)](http://hits.dwyl.com/petersonzeferino/Google-Chrome-Extension)
